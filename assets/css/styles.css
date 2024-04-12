@@ -1,0 +1,53 @@
+body {
+  background: #f1f1f1;
+  font-family: "Platypi", serif;
+}
+
+.main_title {
+  width: fit-content;
+  margin-inline: auto;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+
+.separador {
+  width: 100%;
+  height: 8px;
+  background-color: rgb(255, 0, 0);
+  border: 1px solid black;
+}
+
+form {
+  padding: 15px;
+
+  color: white;
+}
+
+.card-body {
+  background: #e1e2e1;
+}
+
+.card-img-top {
+  text-align: center;
+  width: 100%;
+  aspect-ratio: 16/9;
+}
+.card-body-contenido {
+  text-align: center;
+}
+#creado {
+  background: #002b55;
+}
+
+.card {
+  background: transparent !important;
+  border: none !important;
+}
+
+textarea {
+  resize: none;
+}
+#Heart:hover,
+#heart:hover {
+  cursor: pointer;
+}
